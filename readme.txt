@@ -8,3 +8,4 @@ Git has a mutable index called stage.
 004.
 006
 007
+008
